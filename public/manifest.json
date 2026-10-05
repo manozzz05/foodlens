@@ -1,0 +1,18 @@
+{
+  "short_name": "FoodLens",
+  "name": "FoodLens — Food Decision Engine",
+  "description": "Helps you decide what to eat, right now, for you. Clear verdicts, Indian home portions, and transparent scoring.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d9488",
+  "theme_color": "#0d9488",
+  "display": "standalone",
+  "orientation": "portrait"
+}
